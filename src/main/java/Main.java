@@ -24,8 +24,7 @@ final class Main {
 			accStr = "20";
 			choice = "1";
 			
-		}
-		else{
+		}else{
 			
 			System.out.println("Enter your string of numbers or just one number:");
 			accStr = br.readLine();
